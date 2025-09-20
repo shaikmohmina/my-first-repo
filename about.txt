@@ -1,0 +1,5 @@
+Name: Mohmina Shaik
+Course: BSc Computer science
+SUC Code: 2353410042
+
+A repository is like a project folder on GitHub. It stores our files, code, and even the history of changes.by learning how to create a repo and push my files to it, I can keep my projects safe online, access them from anywhere, and share them with others easily.
